@@ -35,6 +35,8 @@ namespace ConsoleApplication1
                 System.Console.WriteLine(ABC.s[i].ToString());
             }
             System.Console.ReadLine();
+
+            
         }
     }
     public static class ABC
